@@ -16,6 +16,6 @@ export class ProductDetailsComponent implements OnInit{
   hello = [1, 2]
   
   hellllll() {
-    console.log("clickckkckck")
+    console.log("KusInfo")
   }
 }
